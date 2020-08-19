@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+                <url>
+                    <loc>http://localhost:82/office/Wittywhere/</loc>
+                    <changefreq> always </changefreq>
+                    <priority>1.0</priority>    
+                </url>
+
+                <url>
+                    <loc>http://localhost:82/office/Wittywhere/new-politics</loc>
+                    <changefreq> always </changefreq>
+                    <priority>1.0</priority>    
+                </url>
+
+                <url>
+                    <loc>http://localhost:82/office/Wittywhere/tech-trade</loc>
+                    <changefreq> always </changefreq>
+                    <priority>1.0</priority>    
+                </url>
+
+                <url>
+                    <loc>http://localhost:82/office/Wittywhere/main-menu</loc>
+                    <changefreq> always </changefreq>
+                    <priority>1.0</priority>    
+                </url>
+
+                <url>
+                    <loc>http://localhost:82/office/Wittywhere/new-politics</loc>
+                    <changefreq> always </changefreq>
+                    <priority>1.0</priority>    
+                </url>
+
+                <url>
+                    <loc>http://localhost:82/office/Wittywhere/tech-trade</loc>
+                    <changefreq> always </changefreq>
+                    <priority>1.0</priority>    
+                </url>
+
+                <url>
+                    <loc>http://localhost:82/office/Wittywhere/main-menu</loc>
+                    <changefreq> always </changefreq>
+                    <priority>1.0</priority>    
+                </url>
+
+                <url>
+                    <loc>http://localhost:82/office/Wittywhere/POLITICS-NEWS</loc>
+                    <changefreq> always </changefreq>
+                    <priority>1.0</priority>    
+                </url>
+
+                <url>
+                    <loc>http://localhost:82/office/Wittywhere/news-24</loc>
+                    <changefreq> always </changefreq>
+                    <priority>1.0</priority>    
+                </url>
+</urlset>
